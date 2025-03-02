@@ -35,4 +35,4 @@ Best practices for headings and subheadings include using clear, concise titles,
 The introduction of a README should clearly state what the product is, its purpose, and who it is for. It should provide a concise overview of its core functionality and benefits, setting expectations for the user.
 
 ## 12. How can you succinctly convey the purpose and key features of a product?
-To succinctly convey a product’s purpose and key features, use a brief summary with bullet points highlighting its main benefits. Avoid excessive detail—focus on what problem it solves and how it improves the user’s experience.
+To succinctly convey a product’s purpose and key features, use a brief summary with bullet points highlighting its main benefits. Avoid excessive detail focus on what problem it solves and how it improves the user’s experience.
